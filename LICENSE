@@ -1,0 +1,54 @@
+NMAP DECOY LAB - EDUCATIONAL & LAB USE LICENSE
+================================================
+
+Copyright (c) 2024 Rax Ontto
+
+AUTHORIZED USE:
+This software is provided for use in authorized security research, penetration testing, 
+and educational purposes only in controlled laboratory environments.
+
+Permitted use includes:
+- Authorized penetration testing with written permission from the network owner
+- Security research and educational purposes in academic or lab settings
+- Network administrators testing their own infrastructure
+- Authorized incident response and security investigations
+
+RESTRICTIONS:
+You may NOT use this software for:
+- Unauthorized network scanning or reconnaissance
+- Attacking, probing, or testing systems you do not own or have not been authorized to test
+- Evading security monitoring or intrusion detection systems
+- Any illegal activity under applicable laws
+
+DISCLAIMERS:
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+LEGAL RESPONSIBILITY:
+Users are solely and completely responsible for:
+- Ensuring they have proper authorization before scanning any network
+- Compliance with all applicable laws and regulations in their jurisdiction
+- Understanding that unauthorized port scanning may be illegal
+- All consequences resulting from misuse of this software
+
+LIMITATION OF LIABILITY:
+The authors assume no responsibility for misuse, damage, or illegal activity 
+resulting from this software. Users assume all risk and liability.
+
+---
+
+By using this software, you agree to:
+1. Only use it on networks you own or have explicit written authorization to test
+2. Comply with all applicable laws and regulations
+3. Hold the authors harmless from any misuse or illegal activity
+4. Accept full responsibility for your actions
+
+AUTHORIZED SECURITY LAB ONLY
+Lab use on authorized networks only. Unauthorized scanning is illegal.
+
+For more information, see the README.md file.
